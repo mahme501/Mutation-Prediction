@@ -24,11 +24,10 @@ Our main goal is to further develop a prediction mutation tool for viral proteom
 ## Milestones
 | Week | Hannah Serio | Bright Asante | Mariam Ahmed | James Damaso |
 | --- | --- | --- | --- | --- |
-| March 11 | Develop design doc, prepare presentation, get current model running | Develop design doc, prepare presentation, get current model running | Prepare presentation, get current model running | Prepare presentation, get current model running |
+| March 11 | Develop design doc, prepare presentation | Develop design doc, prepare presentation | Prepare presentation | Prepare presentation |
 | March 18 | Run the current model with HPV virus, begin building training dataset with HPV, finalize presentation | Run the current model with EBV virus, begin building training dataset with EBV, finalize presentation | Create scikit-learn partial-fit pipeline | Create scikit-learn partial-fit pipeline |
 | March 25 | Develop retraining pipeline and run training datasets | Develop retraining pipeline and run training datasets | Develop retraining pipeline and apply training datasets | Develop retraining pipeline and apply training datasets |
 | April 1 | Progress presentation, cross-reference predicted mutation with literature | Progress presentation, cross-reference predicted mutation with literature | evalute mean-squared error | evalute mean squared error |
-| April 8 | Progress presentation | Progress presentation |  |  |
+| April 8 | Progress presentation | Progress presentation | Progress presentation | Progress presentation |
 | April 15| Prepare final presentation and App Note | Prepare final presentation and App Note | Prepare final presentation and App Note | Prepare final presentation and App Note |
-| April 22 | Practice final presentations, finalize App Notes |  |  |  |
-| April 29 | |  |  |  |
+| April 22 | Practice final presentations, finalize App Notes | Practice final presentations, finalize App Notes | Practice final presentations, finalize App Notes | Practice final presentations, finalize App Notes |
