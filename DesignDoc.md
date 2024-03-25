@@ -57,15 +57,14 @@ The main steps in our project involve the following:
 ## Milestones
 | Week | Hannah Serio | Bright Asante | Mariam Ahmed | James Damaso |
 | --- | --- | --- | --- | --- |
-| March 11 | Develop design doc, prepare presentation, get current model running | Develop design doc, prepare presentation, get current model running | Prepare presentation, get current model running | Prepare presentation, get current model running |
-| March 18 | Run the current model with HPV virus, begin building training dataset with HPV, finalize presentation | Run the current model with EBV virus, begin building training dataset with EBV, finalize presentation | Create scikit-learn partial-fit pipeline | Create scikit-learn partial-fit pipeline |
-| March 25 | Develop retraining pipeline and run training datasets | Develop retraining pipeline and run training datasets | Develop retraining pipeline and apply training datasets | Develop retraining pipeline and apply training datasets |
-| April 1 | Progress presentation, cross-reference predicted mutation with literature | Progress presentation, cross-reference predicted mutation with literature | evalute mean-squared error | evalute mean squared error |
-| April 8 | Progress presentation | Progress presentation |  |  |
-| April 15| Prepare final presentation and App Note | Prepare final presentation and App Note | Prepare final presentation and App Note | Prepare final presentation and App Note |
-| April 22 | Practice final presentations, finalize App Notes |  |  |  |
-| April 29 | |  |  |  |
-
+| March 11 | Develop design doc, prepare presentation,attempted to get model running | Develop design doc, prepare presentation, get current model running | Prepare presentation, get current model running | Prepare presentation, get current model running |
+| March 18 | Read through current documentation, finalize presentation | Read through current documentation, finalize presentation | Finalize presentation, start learning about scikit-learn partial-fit | Finalize presentation, start learning about scikit-learn partial-fit |
+| March 25 (Repo Check #1 3/27) | Meet with Dr. Miller, compile HPV test dataset, test current MLMs on HPV | Meet with Dr. Miller, compile EBV test dataset, test current MLMs on EBV | Meet with Dr. Miller, test current MLMs on Sars-CoV2 | Meet with Dr. Miller, test current MLMs on Sars-CoV2 |
+| April 1 (Progress Presentation 4/3) | Progress presentation, retrain CNN model with new test data | Progress presentation, retrain RNN model with new test data | Progress presentation, retrain VAE model with new test data | Begin analysis by gathering MSE values and cross referencing mutations with lit |
+| April 8 (Repo Check #2 4/10) | Develop graphical representation of project and create rough draft of App Note | Develop graphical representation of project and create rough draft of App Note | Develop graphical representation of project and create rough draft of App Note | Develop graphical representation of project and create rough draft of App Note |
+| April 15 (Rough Draft App Note 4/17) | Prepare final presentation and App Note | Prepare final presentation and App Note | Prepare final presentation and App Note | Prepare final presentation and App Note |
+| April 22 (Final Pres 4/22 & 4/24) | Finalize presentation, develop App Notes | Finalize presentation, develop App Notes | Finalize presentation, develop App Notes | Finalize presentation, develop App Notes |
+| April 29 (Final Code & App Note 5/1) | Finalize App Notes and graphical representation | Finalize App Notes and graphical representation | Finalize App Notes and graphical representation | Finalize App Notes and graphical representation |
 
 
 ## References
