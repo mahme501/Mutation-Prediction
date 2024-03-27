@@ -3,8 +3,14 @@ Group project for COMP 383/483 - mutation prediction for viral proteomes with Dr
 
 ## Overview
 - [ ] Viruses mutate extremely frequently, their mutation rate being higher than any other organism. Their ability to quickly evolve has lead to efficient infection of their host, evading antiviral drugs.
-- [ ] Due to this characteristic, it has proven difficult to hault the spread of a virus, as seen with the spread of Sars-CoV-2. There is an urgent demand for the accurate predictive tools for viral mutations in order to get ahead of the virus and stop the spread prior to mutation.
+- [ ] This characteristic, however, also makes it quite difficult to estimate/quantify how accurately prediction is to what actually is, since  the spread of a virus, as seen with the spread of Sars-CoV-2. There is an urgent demand for the accurate predictive tools for viral mutations in order to get ahead of the virus and stop the spread before mutation.
 - [ ] A previous group has worked with Dr. Miller to create a machine learning model for mutation prediction based on hidden mutation patterns. However, the current model is only fit for the Sars-CoV-2 virus. We aim to expand this model to fit other viruses; Human Papillomavirus (HPV) and Epstein-Barr virus (EBV).
+
+## Gist
+- [ ] Every living thing mutates, so do viruses, and not all viruses are 'wild' or cause infections. The concern and focus is not that they mutate! It is the rate at which they mutate. Because they mutate much faster, this means that the chance or probability of them becoming 'wild' or 'infectious' is exponentially increased.
+- [ ] Computational approaches to predicting mutations have mostly been successful with microbial datasets partly due to their relatively smaller size as compared to other organisms. Unlike eukaryotes and other species, viral genomes rarely have introns, and thus computationally predicting the impact of change in each position despite their small size is difficult.
+- [ ] An efficient way to predict mutation will first identify the _**driver mutation regions**_ in genomes. These are regions holding significant positions (for instance, those involved in expressing proteins that will go on to drive its virulence, or areas that regulate how the virus recognizes host and resources, or yet still regions regulating its replication process). 
+- [ ] Thus, not all changes in genome position end up becoming "_significant enough_" to drive viral pathogenicity, and so a much better mutation prediction tool(in the context of this project) must be one that can identify and infer which regions across viral genomes hold significant positions and consequence when altered.  
 
 ### Current Machine Learning (ML) Model
 - [ ] The current machine learning model was trained using the Sars-CoV-2 receptor binding domain.
